@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokkandpal" alt="ashokkandpal" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I am currently as a Full Stack .Net Developer at Corelogic.
 
-- 💬 Ask me about **React, Node, HTML, CSS, JavaScript, Full Stack Development, C#, ASP.NET, .Net**
+- 💬 Ask me about **.Net, VUE JS, SQL, Entity Framework, React, Node, HTML, CSS, JavaScript, Full Stack Development, C#, ASP.NET,**
 
 - 📫 How to reach me **ashokkandpal845@gmail.com**
 
